@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 1rem;
+
+}
+nav a.active {
+  color: tomato;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 2rem auto;
+}
